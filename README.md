@@ -1,2 +1,2 @@
-# Mathematical-Modeling
-My python codes about Mathematical Modeling Competitions
+# 数学建模
+数模代码
